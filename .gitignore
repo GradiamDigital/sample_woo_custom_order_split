@@ -1,0 +1,11 @@
+/node_modules/
+/*.DS_Store
+/prepros.config
+/.idea
+/.Trash-1000
+/report.html
+/vendor/
+/composer.json
+/composer.lock
+/.vscode/
+/temp/
